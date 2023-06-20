@@ -22,7 +22,8 @@
             "settings": {
                 "clients": [
                     {
-                        "id": "05323d54-72c2-4652-88d6-07b54f1cbc7a"
+                        "id": "05323d54-72c2-4652-88d6-07b54f1cbc7a",
+                        "security": "none"
                     }
                 ]
             },
